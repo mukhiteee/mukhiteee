@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I am a Full Stack Web Developer current working on Axiom: A Habit Tracker, My first time trying e commerce, building an online store for a gadgets retailer. Building a study app for university students in Nigeria. Building a study engine which helps makes study easier.. Working on more... I build with HTML, CSS, JAVASCRIPT, TAILWIND, PHP, REACT, MYSQL<br>I am a web dev, an engineering student, love nature photography, adventure, I wanna go a lot of places around the world</p>
+<p align="left">I am a Full Stack Web Developer current working on Kaizen: A Habit Tracker, My first time trying e commerce, building an online store for a gadgets retailer. Building a study app for university students in Nigeria. Building a study engine which helps makes study easier.. Working on more... I build with HTML, CSS, JAVASCRIPT, TAILWIND, PHP, REACT, MYSQL<br>I am a web dev, an engineering student, love nature photography, adventure, I wanna go a lot of places around the world</p>
 
 ###
 
